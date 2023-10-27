@@ -12,5 +12,4 @@ Porque:
 ### Objetivos
 Este repositorio serve para aprender sobre git
 
-Este site é da minha universidade [Site UALG]
-(https://www.ualg.pt)
+Este site é da minha universidade [Site UALG](https://www.ualg.pt)
